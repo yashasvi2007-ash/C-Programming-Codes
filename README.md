@@ -1,2 +1,2 @@
 # C-Programming-Codes
-Codes of C++
+Codes of C
